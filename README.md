@@ -22,7 +22,7 @@ An AI-powered email reply generator that integrates seamlessly with Gmail throug
 - Java 17+ (for Spring Boot backend)  
 - Node.js 18+ (for React frontend)  
 - Chrome Browser (for extension)  
-- Google Gemini API Key → [Get it here](https://aistudio.google.com/app/apikey)
+- Google Gemini API Key 
 
 ---
 
